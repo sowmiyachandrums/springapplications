@@ -5,9 +5,7 @@ import org.springframework.data.domain.Page;
 
 import com.myorg.model.Product;
 
-/**
- * @author Dusan Raljic
- */
+
 public class Pager {
 
     private final Page<Product> products;

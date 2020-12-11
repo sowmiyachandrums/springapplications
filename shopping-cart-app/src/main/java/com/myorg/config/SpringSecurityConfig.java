@@ -18,7 +18,7 @@ import javax.sql.DataSource;
  * http://docs.spring.io/spring-boot/docs/current/reference/html/howto-security.html
  * Switches off Spring Boot automatic security configuration
  *
- * @author Dusan
+ * 
  */
 @Configuration
 public class SpringSecurityConfig extends WebSecurityConfigurerAdapter {

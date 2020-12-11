@@ -9,11 +9,7 @@ import org.springframework.web.bind.annotation.ExceptionHandler;
 import org.springframework.web.bind.annotation.ResponseStatus;
 import org.springframework.web.servlet.ModelAndView;
 
-/**
- * Global exception handler
- *
- * @author Dusan
- */
+
 @ControllerAdvice
 public class GlobalExceptionHandler {
 
